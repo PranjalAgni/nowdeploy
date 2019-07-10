@@ -5,11 +5,11 @@ A tiny CLI to generate [now.sh][https://now.sh/] configuration file.
 ### Installation
 
 ```sh
-npm install -g nowdeploy
+npm install -g nowdeployv2
 ```
 
 ### Usage
 
 ```sh
-nowdeploy
+nowdeployv2
 ```

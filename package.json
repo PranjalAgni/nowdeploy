@@ -1,8 +1,9 @@
 {
-  "name": "nowcloud",
+  "name": "nowcloudv2",
   "version": "1.0.0",
   "description": "Tiny Node Package to automatically configure now.json in your project",
   "main": "index.js",
+  "bin": "index.js",
   "keywords": [
     "now",
     "zeit",
